@@ -8,7 +8,6 @@ Beautiful Everforest Dark and Light themes for Xcode.
 </p>
 
 This color scheme is port of original VIM Everforest themes, and also inspired from VIM community.
-I will add two more versions of Everforest soon, currently I have ported only this two version.
 
 ## Features
 
