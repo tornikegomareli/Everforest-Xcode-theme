@@ -1,8 +1,7 @@
 # Everforest Xcode Themes
 
-Beautiful Everforest Dark and Light themes for Xcode.
-
 <p align="center">
+  Beautiful Everforest Dark and Light themes for Xcode.
   <img src="https://github.com/tornikegomareli/Everforest-Xcode-theme/blob/main/preview1.png" alt="Everforest Dark" width="600"/>
 </p>
 
