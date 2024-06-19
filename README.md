@@ -3,8 +3,8 @@
 Beautiful Everforest Dark and Light themes for Xcode.
 
 <p align="center">
-  <img src="https://github.com/tornikegomareli/Everforest-Xcode-theme/blob/main/preview1.png" alt="Everforest Dark" width="400"/>
-  <img src="path/to/light-screenshot.png" alt="Everforest Light" width="400"/>
+  <img src="https://github.com/tornikegomareli/Everforest-Xcode-theme/blob/main/preview1.png" alt="Everforest Dark" width="600"/>
+  <img src="https://github.com/tornikegomareli/Everforest-Xcode-theme/blob/main/preview2.png" alt="Everforest Light" width="600"/>
 </p>
 
 This color scheme is port of original VIM Everforest themes, and also inspired from VIM community.
